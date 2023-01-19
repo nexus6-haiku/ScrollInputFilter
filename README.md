@@ -9,4 +9,4 @@ make install
 ```
 
 # Usage
-Keep SHIFT+ CMD+CLICK pressed while you move across the trackpad. The filter will capture the vertical movement and attempts to simulate the mouse wheel.
+Keep SHIFT+CMD+CLICK pressed while you move across the trackpad. The filter will capture the vertical movement and attempts to simulate the mouse wheel.
