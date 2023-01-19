@@ -1,4 +1,4 @@
-# haiku_scroll_filter
+# Haiku Scroll Filter
 Input Filter for Haiku that turns SHIFT+ CMD+CLICK+Mouse vertical movement into a scroll wheel action.
 Helpful for Apple USB trackpads (Fountain/Geyser/Wellspring) until a proper driver is created.
 
